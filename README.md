@@ -56,7 +56,8 @@ npm install
 
 Add the following:
 
-MONGO_URI=your_mongo_connection_string
+MONGO_URI=mongo_connection_string
+
 PORT=5000
 
 4. Start the server
